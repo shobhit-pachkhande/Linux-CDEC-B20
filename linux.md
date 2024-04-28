@@ -30,3 +30,5 @@ Linux file naming convention in case sensitive. Thus, sample and SAMPLE are 2 di
 
 Windows
 
+While windows are the not the open source operating system.
+
