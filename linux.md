@@ -93,8 +93,12 @@ Portability: Portability doesn't mean it is smaller in file size or can be carri
 Security: It provides security in three ways namely authenticating (by assigning password and login ID), authorization (by assigning permission to read, write and execute) and encryption (converts file into an unreadable format).
 
 Live CD/USB: Almost all Linux distros provide live CD/USB so that users can run/try it without installing it.
+
 Graphical User Interface (X Window system): Linux is command line based OS but it can be converted to GUI based by installing packages.
+
 Support's customized keyboard: As it is used worldwide, hence supports different languages keyboards.
+
 Application support: It has its own software repository from where users can download and install many applications.
+
 File System: Provides hierarchical file system in which files and directories are arranged.
 Open Source: Linux code is freely available to all and is a community based development project.
