@@ -69,4 +69,5 @@ Friendly Interactive Shell (fish)
 
 windows shell 
 
-the Command shell and PowerShell
+Command shell 
+PowerShell
