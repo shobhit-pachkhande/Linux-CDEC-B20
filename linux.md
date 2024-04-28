@@ -36,3 +36,5 @@ While it is costly.
 
 While it’s file name is case-insensitive.
 
+While in this, hybrid kernel is used.
+
