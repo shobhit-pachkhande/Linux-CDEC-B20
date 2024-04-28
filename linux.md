@@ -50,3 +50,6 @@ There are 4 types of user account –
 
 (1) Administrator , (2) Standard , (3) Child , (4) Guest
 
+Administrator user has all administrative privileges of computers.
+
+
