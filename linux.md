@@ -77,8 +77,8 @@ Friendly Interactive Shell (fish)
 
 windows shell 
 
-Command sh
-ell 
+Command shell
+ 
 PowerShell
 
 ---------------------------------------------------------------------------------------------
