@@ -22,3 +22,5 @@ There are 3 types of user account –
 
 (1) Regular , (2) Root , (3) Service account
 
+Root user is the super user and has all administrative privileges.	
+
