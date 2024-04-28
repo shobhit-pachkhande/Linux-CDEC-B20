@@ -34,3 +34,5 @@ While windows are the not the open source operating system.
 
 While it is costly.
 
+While it’s file name is case-insensitive.
+
