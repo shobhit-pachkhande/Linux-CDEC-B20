@@ -42,3 +42,7 @@ While windows are less efficient.
 
 While there is back slash is used for Separating the directories
 
+While it provides less security than linux.
+
+While windows does not provide much efficiency in hacking.
+
