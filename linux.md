@@ -26,3 +26,7 @@ Root user is the super user and has all administrative privileges.
 
 Linux file naming convention in case sensitive. Thus, sample and SAMPLE are 2 different files in Linux/Unix operating system.	
 
+--------------------------------------------------------------------------------------------
+
+Windows
+
