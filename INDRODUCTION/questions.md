@@ -24,3 +24,6 @@ Friendly Interactive Shell (fish)
 Command shell
 
 PowerShell
+
+---------------------------------------------------------------------------------------------
+# 
