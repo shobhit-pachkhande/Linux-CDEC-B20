@@ -78,7 +78,9 @@ Friendly Interactive Shell (fish)
 windows shell 
 
 Command shell
- 
+
 PowerShell
 
 ---------------------------------------------------------------------------------------------
+Features of Linux OS ?
+
