@@ -40,3 +40,5 @@ While in this, hybrid kernel is used.
 
 While windows are less efficient.
 
+While there is back slash is used for Separating the directories
+
