@@ -18,7 +18,7 @@ Z Shell (zsh)
 
 Friendly Interactive Shell (fish)
 
-windows shell 
+Windows shell 
 
 Command shell
 
