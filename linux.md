@@ -102,3 +102,4 @@ Application support: It has its own software repository from where users can dow
 
 File System: Provides hierarchical file system in which files and directories are arranged.
 Open Source: Linux code is freely available to all and is a community based development project.
+---------------------------------------------------------------------------------------------
