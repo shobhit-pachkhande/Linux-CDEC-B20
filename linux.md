@@ -10,3 +10,5 @@ It’s file name case-sensitive.
 
 In linux, monolithic kernel is used.
 
+Linux is more efficient in comparison of windows.	
+
