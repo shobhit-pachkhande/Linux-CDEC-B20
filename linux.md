@@ -32,3 +32,5 @@ Windows
 
 While windows are the not the open source operating system.
 
+While it is costly.
+
