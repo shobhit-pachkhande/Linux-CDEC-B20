@@ -26,4 +26,4 @@ Command shell
 PowerShell
 
 ---------------------------------------------------------------------------------------------
-# Q6.Features of Linux OS ?
+# Q6. Features of Linux OS ?
