@@ -53,3 +53,5 @@ There are 4 types of user account –
 Administrator user has all administrative privileges of computers.
 
 In Windows, you cannot have 2 files with the same name in the same folder.
+
+---------------------------------------------------------------------------------------------
