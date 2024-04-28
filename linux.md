@@ -46,3 +46,7 @@ While it provides less security than linux.
 
 While windows does not provide much efficiency in hacking.
 
+There are 4 types of user account – 
+
+(1) Administrator , (2) Standard , (3) Child , (4) Guest
+
