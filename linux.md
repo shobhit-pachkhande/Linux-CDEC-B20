@@ -66,3 +66,6 @@ Debian Almquist Shell (dash)
 Bourne Again Shell (bash)
 Z Shell (zsh)
 Friendly Interactive Shell (fish)
+
+windows shell 
+
