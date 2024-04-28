@@ -69,4 +69,4 @@ Friendly Interactive Shell (fish)
 
 windows shell 
 
-Windows has two command-line shells: the Command shell and PowerShell
+the Command shell and PowerShell
